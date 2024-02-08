@@ -1,0 +1,91 @@
+commit e5cdf3df5fa126bb0d4a85cf4aba7a1c338c1998
+Author: matencios <matencios10@gmail.com>
+Date:   Thu Feb 8 08:56:22 2024 -0500
+
+    Agregando 2 parrafos
+
+commit d58d89b68ea90b20a0d13f8e32f8484bff9d633b
+Author: matencios <matencios10@gmail.com>
+Date:   Thu Feb 8 08:53:50 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 4f24728762c402fc0ba922acab8a233e8d848a98
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 19:53:25 2024 -0500
+
+    Agregando las estaciones del año
+
+commit 7995ac5f3b1d780bdf3a93554ba9b46376d92db0
+Merge: 25f1e43 a7a1389
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 19:39:39 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit a7a138907fa925076ace3d3002d85000f56f76d4
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 19:30:35 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 25f1e43c99f8df3f154f34827e6f709b8c0e8f44
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 19:27:57 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 78dc9f9b0e5a4eefaab508b2366eab049db5aecc
+Merge: 5b7e90f 6cdb780
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 19:15:20 2024 -0500
+
+    Merge branch 'js'
+
+commit 6cdb7800f5c9dd6c96dbc76bd9bced8d275c541d
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 19:09:02 2024 -0500
+
+    Creando index.js
+
+commit 5b7e90fd38724dc66cd85dfe668bc35c9727a451
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 19:04:02 2024 -0500
+
+    Creando style.css
+
+commit 14adab49c58e8d0470d611d5d6b76409b5ab6e3c
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 18:59:33 2024 -0500
+
+    creando index.html
+
+commit 6052c4ee5e077ba7f16ecb3ec4088a318c4a79fb
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 18:38:45 2024 -0500
+
+    Ignorando archivos .exe
+
+commit 098093b349510b60f0242d945b732e3073c36968
+Author: MATENCIOS <126956063+MATENCIOS@users.noreply.github.com>
+Date:   Wed Feb 7 17:40:54 2024 -0500
+
+    Create LICENSE
+
+commit 45398101b52264c4c7be84955c97e236db87c504
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 17:26:41 2024 -0500
+
+    Agregando mas contenido al README!
+
+commit 62f2e625d980dfd33223ce78763763d50732bb43
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 17:14:11 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit f2d12218756b53ae545814571962bc288dcac925
+Author: matencios <matencios10@gmail.com>
+Date:   Wed Feb 7 17:03:34 2024 -0500
+
+    Primer commit 😊
